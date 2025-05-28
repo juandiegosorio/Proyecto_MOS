@@ -1,0 +1,2 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost
+2,D1.0,101.0,D1.0 -> C5.0 -> C6.0 -> C4.0 -> C1.0 -> C2.0 -> C9.0 -> C7.0 -> C8.0 -> C3.0 -> D1.0,9,12.0-15.0-15.0-6.0-5.0-11.0-12.0-10.0-15.0,95.43,190.9,529455.18
